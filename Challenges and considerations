@@ -1,0 +1,2 @@
+MiniWord operates within Farcaster’s storage limits, where users are capped at 5,000 casts per storage unit (e.g., $7 for a year). Game-related casts, such as shared scores, count toward this limit, requiring users to manage storage or purchase additional units. Farcaster’s timestamp system restricts messages to within 15 minutes of the current time, ensuring real-time relevance but limiting scheduling flexibility. Developers must also ensure MiniWord’s domain is allowlisted for proper rendering in clients.
+
